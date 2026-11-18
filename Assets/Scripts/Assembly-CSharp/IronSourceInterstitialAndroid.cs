@@ -1,0 +1,277 @@
+using System;
+using System.Runtime.CompilerServices;
+using UnityEngine;
+
+public class IronSourceInterstitialAndroid : AndroidJavaProxy, IUnityInterstitial
+{
+	[CompilerGenerated]
+	private Action<IronSourceError> m_OnInterstitialAdShowFailed;
+
+	[CompilerGenerated]
+	private Action<IronSourceError> m_OnInterstitialAdLoadFailed;
+
+	[CompilerGenerated]
+	private Action m_OnInterstitialAdReady;
+
+	[CompilerGenerated]
+	private Action m_OnInterstitialAdOpened;
+
+	[CompilerGenerated]
+	private Action m_OnInterstitialAdClosed;
+
+	[CompilerGenerated]
+	private Action m_OnInterstitialAdShowSucceeded;
+
+	[CompilerGenerated]
+	private Action m_OnInterstitialAdClicked;
+
+	[CompilerGenerated]
+	private Action m_OnInterstitialAdRewarded;
+
+	[CompilerGenerated]
+	private Action<string> m_OnInterstitialAdReadyDemandOnly;
+
+	[CompilerGenerated]
+	private Action<string> m_OnInterstitialAdOpenedDemandOnly;
+
+	[CompilerGenerated]
+	private Action<string> m_OnInterstitialAdClosedDemandOnly;
+
+	[CompilerGenerated]
+	private Action<string, IronSourceError> m_OnInterstitialAdLoadFailedDemandOnly;
+
+	[CompilerGenerated]
+	private Action<string> m_OnInterstitialAdClickedDemandOnly;
+
+	[CompilerGenerated]
+	private Action<string, IronSourceError> m_OnInterstitialAdShowFailedDemandOnly;
+
+	public event Action<IronSourceError> OnInterstitialAdShowFailed
+	{
+		[CompilerGenerated]
+		add
+		{
+		}
+		[CompilerGenerated]
+		remove
+		{
+		}
+	}
+
+	public event Action<IronSourceError> OnInterstitialAdLoadFailed
+	{
+		[CompilerGenerated]
+		add
+		{
+		}
+		[CompilerGenerated]
+		remove
+		{
+		}
+	}
+
+	public event Action OnInterstitialAdReady
+	{
+		[CompilerGenerated]
+		add
+		{
+		}
+		[CompilerGenerated]
+		remove
+		{
+		}
+	}
+
+	public event Action OnInterstitialAdOpened
+	{
+		[CompilerGenerated]
+		add
+		{
+		}
+		[CompilerGenerated]
+		remove
+		{
+		}
+	}
+
+	public event Action OnInterstitialAdClosed
+	{
+		[CompilerGenerated]
+		add
+		{
+		}
+		[CompilerGenerated]
+		remove
+		{
+		}
+	}
+
+	public event Action OnInterstitialAdShowSucceeded
+	{
+		[CompilerGenerated]
+		add
+		{
+		}
+		[CompilerGenerated]
+		remove
+		{
+		}
+	}
+
+	public event Action OnInterstitialAdClicked
+	{
+		[CompilerGenerated]
+		add
+		{
+		}
+		[CompilerGenerated]
+		remove
+		{
+		}
+	}
+
+	public event Action OnInterstitialAdRewarded
+	{
+		[CompilerGenerated]
+		add
+		{
+		}
+		[CompilerGenerated]
+		remove
+		{
+		}
+	}
+
+	public event Action<string> OnInterstitialAdReadyDemandOnly
+	{
+		[CompilerGenerated]
+		add
+		{
+		}
+		[CompilerGenerated]
+		remove
+		{
+		}
+	}
+
+	public event Action<string> OnInterstitialAdOpenedDemandOnly
+	{
+		[CompilerGenerated]
+		add
+		{
+		}
+		[CompilerGenerated]
+		remove
+		{
+		}
+	}
+
+	public event Action<string> OnInterstitialAdClosedDemandOnly
+	{
+		[CompilerGenerated]
+		add
+		{
+		}
+		[CompilerGenerated]
+		remove
+		{
+		}
+	}
+
+	public event Action<string, IronSourceError> OnInterstitialAdLoadFailedDemandOnly
+	{
+		[CompilerGenerated]
+		add
+		{
+		}
+		[CompilerGenerated]
+		remove
+		{
+		}
+	}
+
+	public event Action<string> OnInterstitialAdClickedDemandOnly
+	{
+		[CompilerGenerated]
+		add
+		{
+		}
+		[CompilerGenerated]
+		remove
+		{
+		}
+	}
+
+	public event Action<string, IronSourceError> OnInterstitialAdShowFailedDemandOnly
+	{
+		[CompilerGenerated]
+		add
+		{
+		}
+		[CompilerGenerated]
+		remove
+		{
+		}
+	}
+
+	public IronSourceInterstitialAndroid()
+		: base((string)null)
+	{
+	}
+
+	private void onInterstitialAdShowFailed(string description)
+	{
+	}
+
+	private void onInterstitialAdReady()
+	{
+	}
+
+	private void onInterstitialAdOpened()
+	{
+	}
+
+	private void onInterstitialAdClosed()
+	{
+	}
+
+	private void onInterstitialAdShowSucceeded()
+	{
+	}
+
+	private void onInterstitialAdClicked()
+	{
+	}
+
+	private void onInterstitialAdLoadFailed(string args)
+	{
+	}
+
+	private void onInterstitialAdRewarded()
+	{
+	}
+
+	private void onInterstitialAdClickedDemandOnly(string instanceId)
+	{
+	}
+
+	private void onInterstitialAdClosedDemandOnly(string instanceId)
+	{
+	}
+
+	private void onInterstitialAdOpenedDemandOnly(string instanceId)
+	{
+	}
+
+	private void onInterstitialAdReadyDemandOnly(string instanceId)
+	{
+	}
+
+	private void onInterstitialAdLoadFailedDemandOnly(string args)
+	{
+	}
+
+	private void onInterstitialAdShowFailedDemandOnly(string args)
+	{
+	}
+}

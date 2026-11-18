@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ba66595c7f3c15f939f350109b7104f, type: 3}
+  m_Name: lead_rider
+  m_EditorClassIdentifier:
+  id: lead_rider
+  itemName: Lead Rider
+  price: 900
+  icon: {fileID: 21300000, guid: de7e65b759a5ac34ea28326fe5e1362d, type: 2}
+  currencyIcon: {fileID: 21300000, guid: d07ecb7fb932a4e48a0b9c5c6fe398fc, type: 2}
+  isGem: 1
+  itemPrefab: {fileID: 1709254077376921, guid: 213732a685784c7418ea41f60bba8daf, type: 2}

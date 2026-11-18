@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5de814cfae356a76287ee80486776bcf, type: 3}
+  m_Name: Player Data SO
+  m_EditorClassIdentifier:
+  playerData:
+    age: 50
+    highScore: 300.78491592407227
+    coinCount: 1517412
+    gemCount: 0
+    plateNumberLine1: 14-AB
+    plateNumberLine2: 749.53
+    lastDailyRewardItem: Nothing
+    bikes:
+      _serializedList: []
+    powerUps:
+      _serializedList:
+      - Key: 0
+        Value: 0
+    nonConsumableItems:
+      _serializedList:
+      - Key: ninja_lead
+        Value: 1
+      - Key: nitro_blue
+        Value: 1
+      - Key: lead_normal
+        Value: 1
+    consumableItems:
+      _serializedList:
+      - Key: head_start
+        Value: 0
+      - Key: head_start_super
+        Value: 0
+      - Key: revive
+        Value: 0

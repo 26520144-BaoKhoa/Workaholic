@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bee96ad2c05dc04b46c10efd307f8b94, type: 3}
+  m_Name: Shield
+  m_EditorClassIdentifier:
+  powerUpType: 1
+  powerUpIcon: {fileID: 21300000, guid: f265e6ba43394ea4d87f2e3a58b61262, type: 2}
+  powerUpCost: c409000010270000c8af000070110100f0490200
+  upgradeDetail: 0100000002000000030000000400000005000000

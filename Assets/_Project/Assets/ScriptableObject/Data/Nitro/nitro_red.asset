@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ba66595c7f3c15f939f350109b7104f, type: 3}
+  m_Name: nitro_red
+  m_EditorClassIdentifier:
+  id: nitro_red
+  itemName: Red Nitro
+  price: 15000
+  icon: {fileID: 21300000, guid: 240bf8b5f78c216408c6c5af4d6e0f00, type: 2}
+  currencyIcon: {fileID: 21300000, guid: 21fb55d1ee15deb459fc1bc61d969547, type: 2}
+  isGem: 0
+  itemPrefab: {fileID: 1709254077376921, guid: 9545aaa00b55947408d417cda59b25d3, type: 2}

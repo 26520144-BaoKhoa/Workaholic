@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ebe571fe1e9cb5d62f165ecaa36a3ce, type: 3}
+  m_Name: revive
+  m_EditorClassIdentifier:
+  id: revive
+  itemName: Revive
+  price: 3600
+  icon: {fileID: 21300000, guid: 55ec5986dabe28a41a506df95d571c70, type: 2}
+  currencyIcon: {fileID: 21300000, guid: 21fb55d1ee15deb459fc1bc61d969547, type: 2}
+  isGem: 0

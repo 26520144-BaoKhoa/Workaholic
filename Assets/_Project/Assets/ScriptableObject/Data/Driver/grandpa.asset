@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ba66595c7f3c15f939f350109b7104f, type: 3}
+  m_Name: grandpa
+  m_EditorClassIdentifier:
+  id: grandpa
+  itemName: Grandpa
+  price: 45000
+  icon: {fileID: 21300000, guid: 9233818c7d864a849af07ae4486b5129, type: 2}
+  currencyIcon: {fileID: 21300000, guid: 21fb55d1ee15deb459fc1bc61d969547, type: 2}
+  isGem: 0
+  itemPrefab: {fileID: 1709254077376921, guid: 13a4ff65f13c8a541ae7ba186bc1de69, type: 2}

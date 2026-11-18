@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 147cf489516b7fe0cb94aeb4f9c20a96, type: 3}
+  m_Name: wave
+  m_EditorClassIdentifier:
+  id: wave
+  itemName: Waver
+  price: 5000
+  icon: {fileID: 21300000, guid: 26303c7f569216d47bafd25e4677ea7f, type: 2}
+  currencyIcon: {fileID: 21300000, guid: 21fb55d1ee15deb459fc1bc61d969547, type: 2}
+  isGem: 0
+  itemPrefab: {fileID: 1709254077376921, guid: 0679f979e4ab6734691de121399bc128, type: 2}
+  boostTime: 5
+  leftArmLocalOffset: {x: -0.3252, y: 2.061, z: -0.1577}
+  leftLegLocalOffset: {x: -0.237, y: 1.604, z: 0.152}
+  plateLocalPosition: {x: 0, y: 0.632, z: -0.938}
+  cost: 2c010000b0040000b80b000028230000983a0000
+  additionalBoostTime: 0100000002000000030000000400000005000000
